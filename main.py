@@ -13,6 +13,12 @@ def demo_zip():
         print("v1 =", v1, "v2 =", v2, "v3 =", v3, "sum =", v1 + v2 + v3)
 
 
+def demo_map():
+    # TODO...
+    # WIP - work in progress...
+    pass
+
+
 def main():
     # print("Hello main")
     demo_zip()
